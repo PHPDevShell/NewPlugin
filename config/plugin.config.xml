@@ -59,6 +59,7 @@
 		<dependencies>
 		</dependencies>
 		<classes>
+			<class name="newplugin" alias="EXAMPLE_newplugin" plugin="NewPlugin" rank="last" />
 		</classes>
 	</install>
 	<uninstall>
